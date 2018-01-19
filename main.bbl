@@ -1,0 +1,63 @@
+\begin{thebibliography}{7}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[BASF(2015)]{BASFSE.2014}
+BASF.
+\newblock Basf bericht 2014: {\"O}konomische, {\"o}kologische und
+  gesellschaftliche leistung.
+\newblock [Online] im Internet:
+  \url{https://www.basf.com/documents/corp/de/about-us/publications/reports/2015/BASF_Bericht_2014.pdf},
+  2015.
+\newblock [Abruf am 18.09.2015].
+
+\bibitem[Mnih et~al.(2015)Mnih, Kavukcuoglu, Silver, Rusu, Veness, Bellemare,
+  Graves, Riedmiller, Fidjeland, Ostrovski, et~al.]{mnih2015human}
+Volodymyr Mnih, Koray Kavukcuoglu, David Silver, Andrei~A Rusu, Joel Veness,
+  Marc~G Bellemare, Alex Graves, Martin Riedmiller, Andreas~K Fidjeland, Georg
+  Ostrovski, et~al.
+\newblock Human-level control through deep reinforcement learning.
+\newblock \emph{Nature}, 518\penalty0 (7540):\penalty0 529--533, 2015.
+
+\bibitem[Oestereich(2012)]{Oestereich.2012}
+Bernd Oestereich.
+\newblock \emph{Analyse und Design mit UML 2.4.1: Objektorientierte
+  Softwareentwicklung}.
+\newblock {Oldenbourg, R}, M{\"u}nchen, 10., aktualisierte und erweiterte
+  auflage edition, 2012.
+\newblock ISBN 978-3-486-71667-2.
+
+\bibitem[Pohl(2007)]{Pohl.2007}
+Klaus Pohl.
+\newblock \emph{Requirements Engineering: Grundlagen, Prinzipien, Techniken}.
+\newblock Dpunkt, Heidelberg, 2007.
+\newblock ISBN 978-3-89864-342-9.
+
+\bibitem[Rupp and Queins(2012)]{Rupp.2012}
+Chris Rupp and Stefan Queins.
+\newblock \emph{UML2 glasklar: Praxiswissen f{\"u}r die UML-Modellierung}.
+\newblock Hanser, M{\"u}nchen and Wien, 4., aktualisierte und erw. aufl.
+  edition, 2012.
+\newblock ISBN 978-3-446-43057-0.
+
+\bibitem[Silver et~al.(2016)Silver, Huang, Maddison, Guez, Sifre, Van
+  Den~Driessche, Schrittwieser, Antonoglou, Panneershelvam, Lanctot,
+  et~al.]{silver2016mastering}
+David Silver, Aja Huang, Chris~J Maddison, Arthur Guez, Laurent Sifre, George
+  Van Den~Driessche, Julian Schrittwieser, Ioannis Antonoglou, Veda
+  Panneershelvam, Marc Lanctot, et~al.
+\newblock Mastering the game of go with deep neural networks and tree search.
+\newblock \emph{Nature}, 529\penalty0 (7587):\penalty0 484--489, 2016.
+
+\bibitem[Silver et~al.(2017)Silver, Schrittwieser, Simonyan, Antonoglou, Huang,
+  Guez, Hubert, Baker, Lai, Bolton, et~al.]{silver2017mastering}
+David Silver, Julian Schrittwieser, Karen Simonyan, Ioannis Antonoglou, Aja
+  Huang, Arthur Guez, Thomas Hubert, Lucas Baker, Matthew Lai, Adrian Bolton,
+  et~al.
+\newblock Mastering the game of go without human knowledge.
+\newblock \emph{Nature}, 550\penalty0 (7676):\penalty0 354, 2017.
+
+\end{thebibliography}

@@ -1,0 +1,9 @@
+28. Interne Dokumente
+AUTOR/HERAUSGEBER, Jahr. Titel: Zusatz zum Titel. Ort: Herausgeber. Internes Dokument
+Beispiel (fiktiv):
+CONTINENTAL AG, 2014. Geheime Unternehmensstrategie. Hannover: Continental AG. Internes Dokument
+
+25. Präsentation
+NACHNAME, Vorname, Jahr. Titel [PowerPoint-Präsentation]. Zusatz zum Titel. Ort: Herausgeber, tt.mm.jjjj (Datum der Präsentation)
+Beispiel:
+MÜLLER, Dieter, 2012. Informationsmanagement und Prozessmanagement in einem globalen Unternehmen im 21. Jahrhundert [PowerPoint-Präsentation]. München: Siemens AG, 26.05.2012
